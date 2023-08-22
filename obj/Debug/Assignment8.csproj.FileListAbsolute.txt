@@ -1,0 +1,12 @@
+D:\Phase3\22-8\Assignment8\Assignment8\bin\Debug\Assignment8.exe.config
+D:\Phase3\22-8\Assignment8\Assignment8\bin\Debug\Assignment8.exe
+D:\Phase3\22-8\Assignment8\Assignment8\bin\Debug\Assignment8.pdb
+D:\Phase3\22-8\Assignment8\Assignment8\bin\Debug\EntityFramework.dll
+D:\Phase3\22-8\Assignment8\Assignment8\bin\Debug\EntityFramework.SqlServer.dll
+D:\Phase3\22-8\Assignment8\Assignment8\bin\Debug\EntityFramework.xml
+D:\Phase3\22-8\Assignment8\Assignment8\bin\Debug\EntityFramework.SqlServer.xml
+D:\Phase3\22-8\Assignment8\Assignment8\obj\Debug\Assignment8.csproj.AssemblyReference.cache
+D:\Phase3\22-8\Assignment8\Assignment8\obj\Debug\Assignment8.csproj.CoreCompileInputs.cache
+D:\Phase3\22-8\Assignment8\Assignment8\obj\Debug\Assignment8.csproj.CopyComplete
+D:\Phase3\22-8\Assignment8\Assignment8\obj\Debug\Assignment8.exe
+D:\Phase3\22-8\Assignment8\Assignment8\obj\Debug\Assignment8.pdb
